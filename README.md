@@ -13,7 +13,7 @@
 [<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
-[instagram]: https://instagram.com/siri_naren
+[instagram]: https://instagram.com/_siri_n_shetty_
 [telegram]: https://t.me/sirayo_6
 [email]: mailto:sirishetty.narendra@gmail.com
 [discord]: https://discord.com/users/sirayo#6689
