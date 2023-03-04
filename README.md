@@ -7,16 +7,16 @@ I'm Siri N Shetty</h1>
 - 🌐 Visit my blog: [https://siri123blog.wordpress.com/](https://siri123blog.wordpress.com/)
 - 🎓 Studying CSE at PES University, Bengaluru.
 
-<h3 align="left">I am currently working with:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=py,c,html,go,mysql,figma,matlab,godot,wordpress,ps,flask&theme=light)](https://github.com/siri-n-shetty)
-
 <h3 align="left">Connect with me:</h3>
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirishetty.narendra@gmail.com)
 [![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sirayo#6689)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_siri_n_shetty_)
 <br>
+
+<h3 align="left">I am currently working with:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=py,c,html,go,mysql,figma,matlab,godot,wordpress,ps,flask&theme=light)](https://github.com/siri-n-shetty)
 
 #
 
