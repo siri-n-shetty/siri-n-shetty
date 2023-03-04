@@ -1,4 +1,5 @@
-<h2 align="left">👋 Hi, I'm Siri N Shetty!</h2>
+<h1 align="center">Hi <img width="30" height="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">,
+I'm Siri N Shetty</h1>
 <img align="right" img width="32%" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 - 🌱 I’m currently learning **competitive programming.**
@@ -6,24 +7,31 @@
 - 🌐 Visit my blog: [https://siri123blog.wordpress.com/](https://siri123blog.wordpress.com/)
 - 🎓 Studying CSE at PES University, Bengaluru.
 
+<h3 align="left">I am currently working with:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=py,c,html,go,mysql,figma,matlab,godot,wordpress,ps,flask&theme=light)](https://github.com/siri-n-shetty)
+
 <h3 align="left">Connect with me:</h3>
 
-[<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg"/>][telegram]
-[<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-
-[instagram]: https://instagram.com/_siri_n_shetty_
-[telegram]: https://t.me/sirayo_6
-[email]: mailto:sirishetty.narendra@gmail.com
-[discord]: https://discord.com/users/sirayo#6689
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirishetty.narendra@gmail.com)
+[![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sirayo#6689)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_siri_n_shetty_)
 <br>
 
-<h3 align="left">I am currently working with:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.wordpress.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" width="40" height="40"> </p>
+#
 
+<h3 align="center">Github Stats</h3>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=siri-n-shetty&border_radius=10&theme=dracula" alt="siri-n-shetty" /> 
+</div>
+<h3 align="center">Github Streak</h3>
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=siri-n-shetty&theme=dracula&border_radius=10&fire=DD2727" alt="siri-n-shetty" />
+</div>  
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=siri-n-shetty&border_radius=10&theme=dracula" alt="siri-n-shetty" /> <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=siri-n-shetty&theme=dracula&border_radius=10&fire=DD2727" alt="siri-n-shetty" />
+![footer](https://user-images.githubusercontent.com/10498744/210157572-1fca0242-8af2-46a6-bfa3-666ffd40ebde.svg)
+
+#
 
 <!---
 siri-n-shetty/siri-n-shetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
