@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img width="30" height="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">,
 I'm Siri N Shetty</h1>
-<img align="right" img width="32%" alt="Coding" width="300" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img align="right" img width="32%" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 - 🌱 I’m currently learning **competitive programming.**
 - 👀 I’m interested in **coding and learning new skills everyday.**
