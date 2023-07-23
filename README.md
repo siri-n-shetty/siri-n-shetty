@@ -10,12 +10,13 @@ I'm Siri N Shetty</h1>
 <h3 align="left">Connect with me:</h3>
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirishetty.narendra@gmail.com)
+[![](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin)](www.linkedin.com/in/siri-n-shetty)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_siri_n_shetty_)
 <br>
 
 <h3 align="left">I am currently working with:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,go,mysql,figma,matlab,godot,wordpress,ps,flask,blender&theme=light)](https://github.com/siri-n-shetty)
+[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,go,mysql,figma,matlab,wordpress,ps,flask,blender&theme=light)](https://github.com/siri-n-shetty)
 
 #
 
