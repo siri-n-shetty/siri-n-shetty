@@ -4,7 +4,7 @@ I'm Siri N Shetty</h1>
 
 - 🌱 I’m currently learning **competitive programming.**
 - 👀 I’m interested in **coding and learning new skills everyday.**
-- 🌐 Visit my blog: [https://siri123blog.wordpress.com/](https://siri123blog.wordpress.com/)
+- 🌐 Visit my blog: [https://siri123blog.com/](https://siri123blog.com/)
 - 🎓 Studying CSE at PES University, Bengaluru.
 
 <h3 align="left">Connect with me:</h3>
