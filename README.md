@@ -2,10 +2,10 @@
 I'm Siri N Shetty</h1>
 <img align="right" img width="32%" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-- 🌱 I’m currently learning **competitive programming.**
-- 👀 I’m interested in **coding and learning new skills everyday.**
+- 🌱 A passionate learner, constantly exploring the world of coding and technology.
+- 👀  Each day, I embark on new learning adventures in the world of algorithms and web development.
 - 🌐 Visit my blog: [https://siri123blog.com/](https://siri123blog.com/)
-- 🎓 Studying CSE at PES University, Bengaluru.
+- 🎓 Currently pursuing Computer Science Engineering (CSE) at PES University, Bengaluru.
 
 <h3 align="left">Connect with me:</h3>
 
@@ -16,7 +16,7 @@ I'm Siri N Shetty</h1>
 
 <h3 align="left">I am currently working with:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,go,mysql,figma,matlab,wordpress,ps,flask,blender&theme=light)](https://github.com/siri-n-shetty)
+[![My Skills](https://skillicons.dev/icons?i=py,c,html,css,js,go,mysql,figma,matlab,wordpress,flask,blender,git&theme=light)](https://github.com/siri-n-shetty)
 
 #
 
