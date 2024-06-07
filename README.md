@@ -6,10 +6,6 @@
 - 🌐 Visit my blog: [https://siri123blog.com/](https://siri123blog.com/)
 - 🎓 Currently pursuing Computer Science Engineering (CSE) at PES University, Bengaluru.
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=siri-n-shetty&&style=flat-square" align="center" />
-</div> 
-
 <h3 align="left">Connect with me:</h3>
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirishetty.narendra@gmail.com)
@@ -20,6 +16,10 @@
 <h3 align="left">I am currently working with:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,html,css,js,go,mysql,figma,matlab,wordpress,flask,blender,git&theme=light)](https://github.com/siri-n-shetty)
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=siri-n-shetty&&style=flat-square" align="center" />
+</div> 
 
 #
 
