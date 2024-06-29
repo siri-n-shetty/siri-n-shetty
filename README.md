@@ -3,7 +3,7 @@
 
 - 🌱 A passionate learner, constantly exploring the world of coding and technology.
 - 👀  Each day, I embark on new learning adventures in the world of algorithms and web development.
-- 🌐 Visit my blog: [https://siri123blog.com/](https://siri123blog.wordpress.com/)
+- 🌐 Visit my blog: [https://siri123blog.wordpress.com/](https://siri123blog.wordpress.com/)
 - 🎓 Currently pursuing Computer Science Engineering (CSE) at PES University, Bengaluru.
 
 <h3 align="left">Connect with me:</h3>
