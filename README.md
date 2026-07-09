@@ -2,9 +2,9 @@
 <img align="right" img width="32%" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
 - A passionate learner, constantly exploring the world of coding and technology.
-- Each day, I embark on new learning adventures in algorithms and web development.
-- Visit my blog: [Siri's Study Stash](https://siri123blog.wordpress.com/)
-- Currently pursuing Computer Science Engineering (CSE) at PES University, Bengaluru.
+- Building and deploying AI agents for enterprise contact centers @ Observe.AI · Forward Deployed Engineering
+- Wrapping up B.Tech in Computer Science Engineering (CSE) @ PES University, Bengaluru
+- Always building something - check out my blog: [Siri's Study Stash](https://siri123blog.wordpress.com/)
 
 <h3 align="left">Connect with me:</h3>
 
